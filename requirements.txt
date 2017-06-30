@@ -3,4 +3,5 @@ Flask-Bootstrap
 Jinja2
 chardet
 requests
-es_sql
+git+https://github.com/taowen/es-monitor
+
